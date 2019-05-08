@@ -8,7 +8,7 @@ const colors = {
   black       : backgroundColor,
   red         : '#e06c75', // red
   green       : '#98c379', // green
-  yellow      : '#d19a66', // yellow
+  yellow      : '#d1bd66', // yellow
   blue        : '#56b6ff', // blue
   magenta     : '#c678dd', // pink
   cyan        : '#56b6c2', // cyan
